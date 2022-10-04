@@ -1,2 +1,1 @@
-# UdemyTindog
-Udemy course - Tindog Excercise
+TinDog Starting Files
